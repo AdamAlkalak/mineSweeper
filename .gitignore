@@ -3,4 +3,4 @@
 *.filters
 *.vcxproj
 Debug/
-*.vs
+.vs/
